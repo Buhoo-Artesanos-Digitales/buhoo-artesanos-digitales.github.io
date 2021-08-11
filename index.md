@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a nuestra página
 
 You can use the [editor on GitHub](https://github.com/Buhoo-Artesanos-Digitales/buhoo-artesanos-digitales.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
